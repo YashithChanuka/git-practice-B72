@@ -2,3 +2,4 @@ Fourth day content
 =====================
 
 1. Javascript
+2. Typescript

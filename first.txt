@@ -1,0 +1,6 @@
+Here is outr first day of Internet technologies B72.
+
+First day content
+======================
+
+1. Version Controlling System (VCS)
